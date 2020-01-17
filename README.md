@@ -1,7 +1,3 @@
-# NetModular 人事档案模块
-
-# 此模块暂时不在维护~
-
 
 该仓储是基于[NetModular](https://github.com/iamoldli/NetModular)框架开发的人事档案模块
 
